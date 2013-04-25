@@ -80,15 +80,16 @@ strout+=' <line  stroke="white" stroke-linecap="round" x1='+sx2+' y1='+sy2+' x2=
 strout+=' <line  stroke="white" stroke-linecap="round" x1='+sx3+' y1='+sy3+' x2='+sx4+' y2='+sy4+'  stroke-width="0.576" x2="0"/>\n';
 strout+=' <line  stroke="white" stroke-linecap="round" x1='+sx4+' y1='+sy4+' x2='+sx1+' y2='+sy1+'  stroke-width="0.576" x2="0"/>\n';
 # mark pin A1
-square_size=1;
-sx5='"str(square_size)"';
+square_size_x=1.4;
+square_size_y=1.8;
+sx5='"'+str(square_size_x)+'"';
 sy5='"0"';
 sx6=sx5;
-sy6='"str(square_size)"';
+sy6='"'+str(square_size_y)+'"';
 sx7='"0"';
 sy7=sy6;
-strout+=' <line  stroke="white" stroke-linecap="round" x1='+sx5+' y1='+sy5+' x2='+sx6+' y2='+sy6+'  stroke-width="0.576" x2="0"/>\n';
-strout+=' <line  stroke="white" stroke-linecap="round" x1='+sx6+' y1='+sy6+' x2='+sx7+' y2='+sy7+'  stroke-width="0.576" x2="0"/>\n';
+strout+=' <line  stroke="white" stroke-linecap="round" x1='+sx5+' y1='+sy5+' x2='+sx6+' y2='+sy6+'  stroke-width="0.2" x2="0"/>\n';
+strout+=' <line  stroke="white" stroke-linecap="round" x1='+sx6+' y1='+sy6+' x2='+sx7+' y2='+sy7+'  stroke-width="0.2" x2="0"/>\n';
 strout+='  </g>';
 # now start drawing copper pads on the top layer
 strout+='<g  id="copper1" stroke-width="0">\n';
