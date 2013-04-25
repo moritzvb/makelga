@@ -5,89 +5,89 @@
   <g  id="silkscreen" stroke-width="0"> 
 <title >element:E$1</title> 
  <title >package:LGA77</title>
- <line  stroke="white" stroke-linecap="round" x1="0" y1="0" x2="0" y2="15"  stroke-width="0.576" x2="0"/>
- <line  stroke="white" stroke-linecap="round" x1="0" y1="15" x2="9" y2="15"  stroke-width="0.576" x2="0"/>
- <line  stroke="white" stroke-linecap="round" x1="9" y1="15" x2="9" y2="0"  stroke-width="0.576" x2="0"/>
- <line  stroke="white" stroke-linecap="round" x1="9" y1="0" x2="0" y2="0"  stroke-width="0.576" x2="0"/>
- <line  stroke="white" stroke-linecap="round" x1="1.4" y1="0" x2="1.4" y2="1.8"  stroke-width="0.2" x2="0"/>
- <line  stroke="white" stroke-linecap="round" x1="1.4" y1="1.8" x2="0" y2="1.8"  stroke-width="0.2" x2="0"/>
+ <line  stroke="white" stroke-linecap="round" x1="0" y1="0" x2="0" y2="15"  stroke-width="0.576" />
+ <line  stroke="white" stroke-linecap="round" x1="0" y1="15" x2="9" y2="15"  stroke-width="0.576" />
+ <line  stroke="white" stroke-linecap="round" x1="9" y1="15" x2="9" y2="0"  stroke-width="0.576" />
+ <line  stroke="white" stroke-linecap="round" x1="9" y1="0" x2="0" y2="0"  stroke-width="0.576" />
+ <line  stroke="white" stroke-linecap="round" x1="1.4" y1="0" x2="1.4" y2="1.8"  stroke-width="0.2" />
+ <line  stroke="white" stroke-linecap="round" x1="1.4" y1="1.8" x2="0" y2="1.8"  stroke-width="0.2" />
   </g><g  id="copper1" stroke-width="0">
-<rect width="0.762" x="0.3725" y="0.8325" fill="#F7BD13" height="0.762" stroke="none" id="A1pad" stroke-width="0"/> 
-<rect width="0.635" x="0.3725" y="2.1025" fill="#F7BD13" height="0.635" stroke="none" id="B1pad" stroke-width="0"/> 
-<rect width="0.635" x="0.3725" y="3.3725" fill="#F7BD13" height="0.635" stroke="none" id="C1pad" stroke-width="0"/> 
-<rect width="0.635" x="0.3725" y="4.6425" fill="#F7BD13" height="0.635" stroke="none" id="D1pad" stroke-width="0"/> 
-<rect width="0.635" x="0.3725" y="5.9125" fill="#F7BD13" height="0.635" stroke="none" id="E1pad" stroke-width="0"/> 
-<rect width="0.635" x="0.3725" y="7.1825" fill="#F7BD13" height="0.635" stroke="none" id="F1pad" stroke-width="0"/> 
-<rect width="0.635" x="0.3725" y="8.4525" fill="#F7BD13" height="0.635" stroke="none" id="G1pad" stroke-width="0"/> 
-<rect width="0.635" x="0.3725" y="9.7225" fill="#F7BD13" height="0.635" stroke="none" id="H1pad" stroke-width="0"/> 
-<rect width="0.635" x="0.3725" y="10.9925" fill="#F7BD13" height="0.635" stroke="none" id="J1pad" stroke-width="0"/> 
-<rect width="0.635" x="0.3725" y="12.2625" fill="#F7BD13" height="0.635" stroke="none" id="K1pad" stroke-width="0"/> 
-<rect width="0.635" x="0.3725" y="13.5325" fill="#F7BD13" height="0.635" stroke="none" id="L1pad" stroke-width="0"/> 
-<rect width="0.635" x="1.6425" y="0.8325" fill="#F7BD13" height="0.635" stroke="none" id="A2pad" stroke-width="0"/> 
-<rect width="0.635" x="1.6425" y="2.1025" fill="#F7BD13" height="0.635" stroke="none" id="B2pad" stroke-width="0"/> 
-<rect width="0.635" x="1.6425" y="3.3725" fill="#F7BD13" height="0.635" stroke="none" id="C2pad" stroke-width="0"/> 
-<rect width="0.635" x="1.6425" y="4.6425" fill="#F7BD13" height="0.635" stroke="none" id="D2pad" stroke-width="0"/> 
-<rect width="0.635" x="1.6425" y="5.9125" fill="#F7BD13" height="0.635" stroke="none" id="E2pad" stroke-width="0"/> 
-<rect width="0.635" x="1.6425" y="7.1825" fill="#F7BD13" height="0.635" stroke="none" id="F2pad" stroke-width="0"/> 
-<rect width="0.635" x="1.6425" y="8.4525" fill="#F7BD13" height="0.635" stroke="none" id="G2pad" stroke-width="0"/> 
-<rect width="0.635" x="1.6425" y="9.7225" fill="#F7BD13" height="0.635" stroke="none" id="H2pad" stroke-width="0"/> 
-<rect width="0.635" x="1.6425" y="10.9925" fill="#F7BD13" height="0.635" stroke="none" id="J2pad" stroke-width="0"/> 
-<rect width="0.635" x="1.6425" y="12.2625" fill="#F7BD13" height="0.635" stroke="none" id="K2pad" stroke-width="0"/> 
-<rect width="0.635" x="1.6425" y="13.5325" fill="#F7BD13" height="0.635" stroke="none" id="L2pad" stroke-width="0"/> 
-<rect width="0.635" x="2.9125" y="0.8325" fill="#F7BD13" height="0.635" stroke="none" id="A3pad" stroke-width="0"/> 
-<rect width="0.635" x="2.9125" y="2.1025" fill="#F7BD13" height="0.635" stroke="none" id="B3pad" stroke-width="0"/> 
-<rect width="0.635" x="2.9125" y="3.3725" fill="#F7BD13" height="0.635" stroke="none" id="C3pad" stroke-width="0"/> 
-<rect width="0.635" x="2.9125" y="4.6425" fill="#F7BD13" height="0.635" stroke="none" id="D3pad" stroke-width="0"/> 
-<rect width="0.635" x="2.9125" y="5.9125" fill="#F7BD13" height="0.635" stroke="none" id="E3pad" stroke-width="0"/> 
-<rect width="0.635" x="2.9125" y="7.1825" fill="#F7BD13" height="0.635" stroke="none" id="F3pad" stroke-width="0"/> 
-<rect width="0.635" x="2.9125" y="8.4525" fill="#F7BD13" height="0.635" stroke="none" id="G3pad" stroke-width="0"/> 
-<rect width="0.635" x="2.9125" y="9.7225" fill="#F7BD13" height="0.635" stroke="none" id="H3pad" stroke-width="0"/> 
-<rect width="0.635" x="2.9125" y="10.9925" fill="#F7BD13" height="0.635" stroke="none" id="J3pad" stroke-width="0"/> 
-<rect width="0.635" x="2.9125" y="12.2625" fill="#F7BD13" height="0.635" stroke="none" id="K3pad" stroke-width="0"/> 
-<rect width="0.635" x="2.9125" y="13.5325" fill="#F7BD13" height="0.635" stroke="none" id="L3pad" stroke-width="0"/> 
-<rect width="0.635" x="4.1825" y="0.8325" fill="#F7BD13" height="0.635" stroke="none" id="A4pad" stroke-width="0"/> 
-<rect width="0.635" x="4.1825" y="2.1025" fill="#F7BD13" height="0.635" stroke="none" id="B4pad" stroke-width="0"/> 
-<rect width="0.635" x="4.1825" y="3.3725" fill="#F7BD13" height="0.635" stroke="none" id="C4pad" stroke-width="0"/> 
-<rect width="0.635" x="4.1825" y="4.6425" fill="#F7BD13" height="0.635" stroke="none" id="D4pad" stroke-width="0"/> 
-<rect width="0.635" x="4.1825" y="5.9125" fill="#F7BD13" height="0.635" stroke="none" id="E4pad" stroke-width="0"/> 
-<rect width="0.635" x="4.1825" y="7.1825" fill="#F7BD13" height="0.635" stroke="none" id="F4pad" stroke-width="0"/> 
-<rect width="0.635" x="4.1825" y="8.4525" fill="#F7BD13" height="0.635" stroke="none" id="G4pad" stroke-width="0"/> 
-<rect width="0.635" x="4.1825" y="9.7225" fill="#F7BD13" height="0.635" stroke="none" id="H4pad" stroke-width="0"/> 
-<rect width="0.635" x="4.1825" y="10.9925" fill="#F7BD13" height="0.635" stroke="none" id="J4pad" stroke-width="0"/> 
-<rect width="0.635" x="4.1825" y="12.2625" fill="#F7BD13" height="0.635" stroke="none" id="K4pad" stroke-width="0"/> 
-<rect width="0.635" x="4.1825" y="13.5325" fill="#F7BD13" height="0.635" stroke="none" id="L4pad" stroke-width="0"/> 
-<rect width="0.635" x="5.4525" y="0.8325" fill="#F7BD13" height="0.635" stroke="none" id="A5pad" stroke-width="0"/> 
-<rect width="0.635" x="5.4525" y="2.1025" fill="#F7BD13" height="0.635" stroke="none" id="B5pad" stroke-width="0"/> 
-<rect width="0.635" x="5.4525" y="3.3725" fill="#F7BD13" height="0.635" stroke="none" id="C5pad" stroke-width="0"/> 
-<rect width="0.635" x="5.4525" y="4.6425" fill="#F7BD13" height="0.635" stroke="none" id="D5pad" stroke-width="0"/> 
-<rect width="0.635" x="5.4525" y="5.9125" fill="#F7BD13" height="0.635" stroke="none" id="E5pad" stroke-width="0"/> 
-<rect width="0.635" x="5.4525" y="7.1825" fill="#F7BD13" height="0.635" stroke="none" id="F5pad" stroke-width="0"/> 
-<rect width="0.635" x="5.4525" y="8.4525" fill="#F7BD13" height="0.635" stroke="none" id="G5pad" stroke-width="0"/> 
-<rect width="0.635" x="5.4525" y="9.7225" fill="#F7BD13" height="0.635" stroke="none" id="H5pad" stroke-width="0"/> 
-<rect width="0.635" x="5.4525" y="10.9925" fill="#F7BD13" height="0.635" stroke="none" id="J5pad" stroke-width="0"/> 
-<rect width="0.635" x="5.4525" y="12.2625" fill="#F7BD13" height="0.635" stroke="none" id="K5pad" stroke-width="0"/> 
-<rect width="0.635" x="5.4525" y="13.5325" fill="#F7BD13" height="0.635" stroke="none" id="L5pad" stroke-width="0"/> 
-<rect width="0.635" x="6.7225" y="0.8325" fill="#F7BD13" height="0.635" stroke="none" id="A6pad" stroke-width="0"/> 
-<rect width="0.635" x="6.7225" y="2.1025" fill="#F7BD13" height="0.635" stroke="none" id="B6pad" stroke-width="0"/> 
-<rect width="0.635" x="6.7225" y="3.3725" fill="#F7BD13" height="0.635" stroke="none" id="C6pad" stroke-width="0"/> 
-<rect width="0.635" x="6.7225" y="4.6425" fill="#F7BD13" height="0.635" stroke="none" id="D6pad" stroke-width="0"/> 
-<rect width="0.635" x="6.7225" y="5.9125" fill="#F7BD13" height="0.635" stroke="none" id="E6pad" stroke-width="0"/> 
-<rect width="0.635" x="6.7225" y="7.1825" fill="#F7BD13" height="0.635" stroke="none" id="F6pad" stroke-width="0"/> 
-<rect width="0.635" x="6.7225" y="8.4525" fill="#F7BD13" height="0.635" stroke="none" id="G6pad" stroke-width="0"/> 
-<rect width="0.635" x="6.7225" y="9.7225" fill="#F7BD13" height="0.635" stroke="none" id="H6pad" stroke-width="0"/> 
-<rect width="0.635" x="6.7225" y="10.9925" fill="#F7BD13" height="0.635" stroke="none" id="J6pad" stroke-width="0"/> 
-<rect width="0.635" x="6.7225" y="12.2625" fill="#F7BD13" height="0.635" stroke="none" id="K6pad" stroke-width="0"/> 
-<rect width="0.635" x="6.7225" y="13.5325" fill="#F7BD13" height="0.635" stroke="none" id="L6pad" stroke-width="0"/> 
-<rect width="0.635" x="7.9925" y="0.8325" fill="#F7BD13" height="0.635" stroke="none" id="A7pad" stroke-width="0"/> 
-<rect width="0.635" x="7.9925" y="2.1025" fill="#F7BD13" height="0.635" stroke="none" id="B7pad" stroke-width="0"/> 
-<rect width="0.635" x="7.9925" y="3.3725" fill="#F7BD13" height="0.635" stroke="none" id="C7pad" stroke-width="0"/> 
-<rect width="0.635" x="7.9925" y="4.6425" fill="#F7BD13" height="0.635" stroke="none" id="D7pad" stroke-width="0"/> 
-<rect width="0.635" x="7.9925" y="5.9125" fill="#F7BD13" height="0.635" stroke="none" id="E7pad" stroke-width="0"/> 
-<rect width="0.635" x="7.9925" y="7.1825" fill="#F7BD13" height="0.635" stroke="none" id="F7pad" stroke-width="0"/> 
-<rect width="0.635" x="7.9925" y="8.4525" fill="#F7BD13" height="0.635" stroke="none" id="G7pad" stroke-width="0"/> 
-<rect width="0.635" x="7.9925" y="9.7225" fill="#F7BD13" height="0.635" stroke="none" id="H7pad" stroke-width="0"/> 
-<rect width="0.635" x="7.9925" y="10.9925" fill="#F7BD13" height="0.635" stroke="none" id="J7pad" stroke-width="0"/> 
-<rect width="0.635" x="7.9925" y="12.2625" fill="#F7BD13" height="0.635" stroke="none" id="K7pad" stroke-width="0"/> 
-<rect width="0.635" x="7.9925" y="13.5325" fill="#F7BD13" height="0.635" stroke="none" id="L7pad" stroke-width="0"/> 
+<rect width="0.762" x="0.3725" y="0.8325" fill="#F7BD13" height="0.762" stroke="none" id="connector0pad" stroke-width="0"/> 
+<rect width="0.635" x="0.3725" y="2.1025" fill="#F7BD13" height="0.635" stroke="none" id="connector7pad" stroke-width="0"/> 
+<rect width="0.635" x="0.3725" y="3.3725" fill="#F7BD13" height="0.635" stroke="none" id="connector14pad" stroke-width="0"/> 
+<rect width="0.635" x="0.3725" y="4.6425" fill="#F7BD13" height="0.635" stroke="none" id="connector21pad" stroke-width="0"/> 
+<rect width="0.635" x="0.3725" y="5.9125" fill="#F7BD13" height="0.635" stroke="none" id="connector28pad" stroke-width="0"/> 
+<rect width="0.635" x="0.3725" y="7.1825" fill="#F7BD13" height="0.635" stroke="none" id="connector35pad" stroke-width="0"/> 
+<rect width="0.635" x="0.3725" y="8.4525" fill="#F7BD13" height="0.635" stroke="none" id="connector42pad" stroke-width="0"/> 
+<rect width="0.635" x="0.3725" y="9.7225" fill="#F7BD13" height="0.635" stroke="none" id="connector49pad" stroke-width="0"/> 
+<rect width="0.635" x="0.3725" y="10.9925" fill="#F7BD13" height="0.635" stroke="none" id="connector56pad" stroke-width="0"/> 
+<rect width="0.635" x="0.3725" y="12.2625" fill="#F7BD13" height="0.635" stroke="none" id="connector63pad" stroke-width="0"/> 
+<rect width="0.635" x="0.3725" y="13.5325" fill="#F7BD13" height="0.635" stroke="none" id="connector70pad" stroke-width="0"/> 
+<rect width="0.635" x="1.6425" y="0.8325" fill="#F7BD13" height="0.635" stroke="none" id="connector1pad" stroke-width="0"/> 
+<rect width="0.635" x="1.6425" y="2.1025" fill="#F7BD13" height="0.635" stroke="none" id="connector8pad" stroke-width="0"/> 
+<rect width="0.635" x="1.6425" y="3.3725" fill="#F7BD13" height="0.635" stroke="none" id="connector15pad" stroke-width="0"/> 
+<rect width="0.635" x="1.6425" y="4.6425" fill="#F7BD13" height="0.635" stroke="none" id="connector22pad" stroke-width="0"/> 
+<rect width="0.635" x="1.6425" y="5.9125" fill="#F7BD13" height="0.635" stroke="none" id="connector29pad" stroke-width="0"/> 
+<rect width="0.635" x="1.6425" y="7.1825" fill="#F7BD13" height="0.635" stroke="none" id="connector36pad" stroke-width="0"/> 
+<rect width="0.635" x="1.6425" y="8.4525" fill="#F7BD13" height="0.635" stroke="none" id="connector43pad" stroke-width="0"/> 
+<rect width="0.635" x="1.6425" y="9.7225" fill="#F7BD13" height="0.635" stroke="none" id="connector50pad" stroke-width="0"/> 
+<rect width="0.635" x="1.6425" y="10.9925" fill="#F7BD13" height="0.635" stroke="none" id="connector57pad" stroke-width="0"/> 
+<rect width="0.635" x="1.6425" y="12.2625" fill="#F7BD13" height="0.635" stroke="none" id="connector64pad" stroke-width="0"/> 
+<rect width="0.635" x="1.6425" y="13.5325" fill="#F7BD13" height="0.635" stroke="none" id="connector71pad" stroke-width="0"/> 
+<rect width="0.635" x="2.9125" y="0.8325" fill="#F7BD13" height="0.635" stroke="none" id="connector2pad" stroke-width="0"/> 
+<rect width="0.635" x="2.9125" y="2.1025" fill="#F7BD13" height="0.635" stroke="none" id="connector9pad" stroke-width="0"/> 
+<rect width="0.635" x="2.9125" y="3.3725" fill="#F7BD13" height="0.635" stroke="none" id="connector16pad" stroke-width="0"/> 
+<rect width="0.635" x="2.9125" y="4.6425" fill="#F7BD13" height="0.635" stroke="none" id="connector23pad" stroke-width="0"/> 
+<rect width="0.635" x="2.9125" y="5.9125" fill="#F7BD13" height="0.635" stroke="none" id="connector30pad" stroke-width="0"/> 
+<rect width="0.635" x="2.9125" y="7.1825" fill="#F7BD13" height="0.635" stroke="none" id="connector37pad" stroke-width="0"/> 
+<rect width="0.635" x="2.9125" y="8.4525" fill="#F7BD13" height="0.635" stroke="none" id="connector44pad" stroke-width="0"/> 
+<rect width="0.635" x="2.9125" y="9.7225" fill="#F7BD13" height="0.635" stroke="none" id="connector51pad" stroke-width="0"/> 
+<rect width="0.635" x="2.9125" y="10.9925" fill="#F7BD13" height="0.635" stroke="none" id="connector58pad" stroke-width="0"/> 
+<rect width="0.635" x="2.9125" y="12.2625" fill="#F7BD13" height="0.635" stroke="none" id="connector65pad" stroke-width="0"/> 
+<rect width="0.635" x="2.9125" y="13.5325" fill="#F7BD13" height="0.635" stroke="none" id="connector72pad" stroke-width="0"/> 
+<rect width="0.635" x="4.1825" y="0.8325" fill="#F7BD13" height="0.635" stroke="none" id="connector3pad" stroke-width="0"/> 
+<rect width="0.635" x="4.1825" y="2.1025" fill="#F7BD13" height="0.635" stroke="none" id="connector10pad" stroke-width="0"/> 
+<rect width="0.635" x="4.1825" y="3.3725" fill="#F7BD13" height="0.635" stroke="none" id="connector17pad" stroke-width="0"/> 
+<rect width="0.635" x="4.1825" y="4.6425" fill="#F7BD13" height="0.635" stroke="none" id="connector24pad" stroke-width="0"/> 
+<rect width="0.635" x="4.1825" y="5.9125" fill="#F7BD13" height="0.635" stroke="none" id="connector31pad" stroke-width="0"/> 
+<rect width="0.635" x="4.1825" y="7.1825" fill="#F7BD13" height="0.635" stroke="none" id="connector38pad" stroke-width="0"/> 
+<rect width="0.635" x="4.1825" y="8.4525" fill="#F7BD13" height="0.635" stroke="none" id="connector45pad" stroke-width="0"/> 
+<rect width="0.635" x="4.1825" y="9.7225" fill="#F7BD13" height="0.635" stroke="none" id="connector52pad" stroke-width="0"/> 
+<rect width="0.635" x="4.1825" y="10.9925" fill="#F7BD13" height="0.635" stroke="none" id="connector59pad" stroke-width="0"/> 
+<rect width="0.635" x="4.1825" y="12.2625" fill="#F7BD13" height="0.635" stroke="none" id="connector66pad" stroke-width="0"/> 
+<rect width="0.635" x="4.1825" y="13.5325" fill="#F7BD13" height="0.635" stroke="none" id="connector73pad" stroke-width="0"/> 
+<rect width="0.635" x="5.4525" y="0.8325" fill="#F7BD13" height="0.635" stroke="none" id="connector4pad" stroke-width="0"/> 
+<rect width="0.635" x="5.4525" y="2.1025" fill="#F7BD13" height="0.635" stroke="none" id="connector11pad" stroke-width="0"/> 
+<rect width="0.635" x="5.4525" y="3.3725" fill="#F7BD13" height="0.635" stroke="none" id="connector18pad" stroke-width="0"/> 
+<rect width="0.635" x="5.4525" y="4.6425" fill="#F7BD13" height="0.635" stroke="none" id="connector25pad" stroke-width="0"/> 
+<rect width="0.635" x="5.4525" y="5.9125" fill="#F7BD13" height="0.635" stroke="none" id="connector32pad" stroke-width="0"/> 
+<rect width="0.635" x="5.4525" y="7.1825" fill="#F7BD13" height="0.635" stroke="none" id="connector39pad" stroke-width="0"/> 
+<rect width="0.635" x="5.4525" y="8.4525" fill="#F7BD13" height="0.635" stroke="none" id="connector46pad" stroke-width="0"/> 
+<rect width="0.635" x="5.4525" y="9.7225" fill="#F7BD13" height="0.635" stroke="none" id="connector53pad" stroke-width="0"/> 
+<rect width="0.635" x="5.4525" y="10.9925" fill="#F7BD13" height="0.635" stroke="none" id="connector60pad" stroke-width="0"/> 
+<rect width="0.635" x="5.4525" y="12.2625" fill="#F7BD13" height="0.635" stroke="none" id="connector67pad" stroke-width="0"/> 
+<rect width="0.635" x="5.4525" y="13.5325" fill="#F7BD13" height="0.635" stroke="none" id="connector74pad" stroke-width="0"/> 
+<rect width="0.635" x="6.7225" y="0.8325" fill="#F7BD13" height="0.635" stroke="none" id="connector5pad" stroke-width="0"/> 
+<rect width="0.635" x="6.7225" y="2.1025" fill="#F7BD13" height="0.635" stroke="none" id="connector12pad" stroke-width="0"/> 
+<rect width="0.635" x="6.7225" y="3.3725" fill="#F7BD13" height="0.635" stroke="none" id="connector19pad" stroke-width="0"/> 
+<rect width="0.635" x="6.7225" y="4.6425" fill="#F7BD13" height="0.635" stroke="none" id="connector26pad" stroke-width="0"/> 
+<rect width="0.635" x="6.7225" y="5.9125" fill="#F7BD13" height="0.635" stroke="none" id="connector33pad" stroke-width="0"/> 
+<rect width="0.635" x="6.7225" y="7.1825" fill="#F7BD13" height="0.635" stroke="none" id="connector40pad" stroke-width="0"/> 
+<rect width="0.635" x="6.7225" y="8.4525" fill="#F7BD13" height="0.635" stroke="none" id="connector47pad" stroke-width="0"/> 
+<rect width="0.635" x="6.7225" y="9.7225" fill="#F7BD13" height="0.635" stroke="none" id="connector54pad" stroke-width="0"/> 
+<rect width="0.635" x="6.7225" y="10.9925" fill="#F7BD13" height="0.635" stroke="none" id="connector61pad" stroke-width="0"/> 
+<rect width="0.635" x="6.7225" y="12.2625" fill="#F7BD13" height="0.635" stroke="none" id="connector68pad" stroke-width="0"/> 
+<rect width="0.635" x="6.7225" y="13.5325" fill="#F7BD13" height="0.635" stroke="none" id="connector75pad" stroke-width="0"/> 
+<rect width="0.635" x="7.9925" y="0.8325" fill="#F7BD13" height="0.635" stroke="none" id="connector6pad" stroke-width="0"/> 
+<rect width="0.635" x="7.9925" y="2.1025" fill="#F7BD13" height="0.635" stroke="none" id="connector13pad" stroke-width="0"/> 
+<rect width="0.635" x="7.9925" y="3.3725" fill="#F7BD13" height="0.635" stroke="none" id="connector20pad" stroke-width="0"/> 
+<rect width="0.635" x="7.9925" y="4.6425" fill="#F7BD13" height="0.635" stroke="none" id="connector27pad" stroke-width="0"/> 
+<rect width="0.635" x="7.9925" y="5.9125" fill="#F7BD13" height="0.635" stroke="none" id="connector34pad" stroke-width="0"/> 
+<rect width="0.635" x="7.9925" y="7.1825" fill="#F7BD13" height="0.635" stroke="none" id="connector41pad" stroke-width="0"/> 
+<rect width="0.635" x="7.9925" y="8.4525" fill="#F7BD13" height="0.635" stroke="none" id="connector48pad" stroke-width="0"/> 
+<rect width="0.635" x="7.9925" y="9.7225" fill="#F7BD13" height="0.635" stroke="none" id="connector55pad" stroke-width="0"/> 
+<rect width="0.635" x="7.9925" y="10.9925" fill="#F7BD13" height="0.635" stroke="none" id="connector62pad" stroke-width="0"/> 
+<rect width="0.635" x="7.9925" y="12.2625" fill="#F7BD13" height="0.635" stroke="none" id="connector69pad" stroke-width="0"/> 
+<rect width="0.635" x="7.9925" y="13.5325" fill="#F7BD13" height="0.635" stroke="none" id="connector76pad" stroke-width="0"/> 
 </g>
 </svg>
